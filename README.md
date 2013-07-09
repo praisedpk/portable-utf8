@@ -1,5 +1,5 @@
-portable-utf8
-=============
+Portable UTF-8
+==============
 
 A portable library for Unicode handling in PHP
 
